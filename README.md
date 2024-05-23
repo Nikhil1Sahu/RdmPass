@@ -20,13 +20,12 @@ My Expertise: As a full stack developer, I possess a versatile skill set encompa
 
 My Approach: Driven by a passion for problem-solving and a commitment to excellence, I approach every project with creativity, enthusiasm, and attention to detail. Whether it's bringing a client's vision to life, optimizing code for performance, or troubleshooting bugs, I thrive in the dynamic challenges of software development, constantly pushing boundaries and raising the bar for quality.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jerrysahuportfolio.netlify.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sahu-a0848b306/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/brb_jerry)
-
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)  License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). It is a widely used and recognized license in the open-source community, known for its simplicity and flexibility. Here is a brief overview of the key features and terms of the MIT License:
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jerrysahuportfolio.netlify.app)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sahu-a0848b306/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/brb_jerry)
